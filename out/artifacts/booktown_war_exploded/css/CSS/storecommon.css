@@ -1,0 +1,80 @@
+/*声明字体 ../需要从css文件翻出来*/
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    font: 12px/150% tahoma,arial,Microsoft YaHei,Hiragino Sans GB,"\u5b8b\u4f53",sans-serif;
+    font-style: normal;
+    color: #666;
+}
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var {
+    margin: 0;
+    padding: 0;
+}
+.preview .preview-info .left-btns a:hover {
+    color: #e3393c;
+}
+.preview .preview-info .left-btns a {
+    cursor: pointer;
+}
+a:hover {
+    color: #f30213;
+}
+a {
+    color: #666;
+}
+
+.itemInfo-wrap .sku-name img {
+
+    vertical-align: -2px;
+
+}
+img {
+
+    border: 0;
+    vertical-align: middle;
+
+}
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var {
+
+    margin: 0;
+    padding: 0;
+
+}
+.itemInfo-wrap .sku-name {
+
+    font: 700 16px Arial,"microsoft yahei";
+    line-height: normal;
+    color: #666;
+    line-height: 28px;
+
+}
+.itemInfo-wrap .summary-price-wrap .summary-top .p-promotions a:link {
+    color: #666;
+}
+.itemInfo-wrap .summary-price-wrap .summary-top .p-promotions {
+    line-height: 30px;
+}
+.itemInfo-wrap .summary-price-wrap .summary-top .p-promotions {
+    line-height: 30px;
+}
+#ns_services.services {
+    line-height: 20px;
+    font-size: 12px;
+}
+.li {
+    line-height: 32px;
+}
